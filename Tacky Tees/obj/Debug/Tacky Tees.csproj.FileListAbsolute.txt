@@ -1,0 +1,30 @@
+C:\Users\redwo\Desktop\Tacky Tees\bin\Debug\Tacky Tees.exe.config
+C:\Users\redwo\Desktop\Tacky Tees\bin\Debug\Tacky Tees.exe
+C:\Users\redwo\Desktop\Tacky Tees\bin\Debug\Tacky Tees.pdb
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.AssemblyReference.cache
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky_Tees.Form1.resources
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky_Tees.Properties.Resources.resources
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.GenerateResource.cache
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.CoreCompileInputs.cache
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky Tees.exe
+C:\Users\redwo\Desktop\Tacky Tees\obj\Debug\Tacky Tees.pdb
+E:\Tacky Tees\bin\Debug\Tacky Tees.exe.config
+E:\Tacky Tees\bin\Debug\Tacky Tees.exe
+E:\Tacky Tees\bin\Debug\Tacky Tees.pdb
+E:\Tacky Tees\obj\Debug\Tacky Tees.csproj.AssemblyReference.cache
+E:\Tacky Tees\obj\Debug\Tacky_Tees.Form1.resources
+E:\Tacky Tees\obj\Debug\Tacky_Tees.Properties.Resources.resources
+E:\Tacky Tees\obj\Debug\Tacky Tees.csproj.GenerateResource.cache
+E:\Tacky Tees\obj\Debug\Tacky Tees.csproj.CoreCompileInputs.cache
+E:\Tacky Tees\obj\Debug\Tacky Tees.exe
+E:\Tacky Tees\obj\Debug\Tacky Tees.pdb
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky_Tees.Form1.resources
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky_Tees.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky Tees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky Tees.exe
+C:\Users\Admin\Desktop\Tacky Tees\obj\Debug\Tacky Tees.pdb
+C:\Users\Admin\Desktop\Tacky Tees\bin\Debug\Tacky Tees.exe.config
+C:\Users\Admin\Desktop\Tacky Tees\bin\Debug\Tacky Tees.exe
+C:\Users\Admin\Desktop\Tacky Tees\bin\Debug\Tacky Tees.pdb
